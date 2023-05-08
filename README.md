@@ -1,0 +1,5 @@
+Download Link: https://assignmentchef.com/product/solved-week-6-discussion-database-life-cycle
+<br>
+Week 6 Discussion“Database Life Cycle” Please respond to the following:
+
+Per the text, the Database Life Cycle includes the Database Initial Study, Database Design, Implementation and Loading, Testing and Evaluation, Operation, and Maintenance and Evolution phases. However, the actual implementation of each of the phases will likely change, based on the size of the related organization or other organizational factors.Select one (1) phase of the Database Life Cycle, and describe the manner in which the chosen phase would change based on the size of the organization.Using the same phase that you selected in Part 1 of this discussion, describe the manner in which the phase would change, based on the distribution of the organization and the associated distributed database design.
